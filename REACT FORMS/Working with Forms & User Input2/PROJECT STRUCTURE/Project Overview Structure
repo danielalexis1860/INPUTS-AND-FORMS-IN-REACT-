@@ -1,0 +1,15 @@
+src/
+├── components/
+│   ├── LoginForm.jsx
+│   ├── RegistrationForm.jsx
+│   ├── ValidationForm.jsx
+├── App.jsx
+├── index.js
+public/
+├── index.html
+
+
+Installing Of Dependencies after code on the git bash 
+npm install
+
+npm start to start the development server

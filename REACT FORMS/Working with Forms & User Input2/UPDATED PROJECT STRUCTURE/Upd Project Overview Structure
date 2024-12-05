@@ -1,0 +1,35 @@
+react-forms-example/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── LoginForm.jsx
+│   │   ├── RegistrationForm.jsx
+│   │   ├── ValidationForm.jsx
+│   ├── App.jsx
+│   ├── index.js
+│   └── index.css
+├── package.json
+├── package-lock.json
+└── README.md
+
+
+
+Create  New React Project  and then in the terminal run the following commands
+npx create-react-app react-forms-example
+cd react-forms-example
+
+Then install Dependencies with this command
+npm install formik react-hook-form
+
+
+
+ Run the program with this command in the terminal
+ npm start
+
+
+App launched in development mode and viewed by localhost in browser
+
+
+
+
